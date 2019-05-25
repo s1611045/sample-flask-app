@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Ignore venv files
+/.vscode
+/activate
+/bin
+/lib
+pyvenv.cfg
